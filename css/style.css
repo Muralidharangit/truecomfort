@@ -3243,6 +3243,7 @@ img.lazy-image.loaded {
   position: relative;
   /* padding: 140px 0px 200px; */
   background: #ffffff;
+ padding:30px 0;
 }
 
 .testimonials-section.alt-padding {
